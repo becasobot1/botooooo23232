@@ -3,8 +3,7 @@ const client = new Discord.Client();
 const prefix = '!ak'
 
 client.on('ready' , () => {
-client.user.setGame('Arab Snake 1
-');});
+client.user.setGame('Arab Snake 1');});
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
