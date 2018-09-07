@@ -2,9 +2,9 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const prefix = '!ak'
 
-client.on('ready', () => {
-  console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Alpha Codes `,"http://twitch.tv/Alpha Codes")
+client.on('ready' , () => {
+client.user.setGame('Arab Snake 1
+');});
   console.log('')
   console.log('')
   console.log('╔[═════════════════════════════════════════════════════════════════]╗')
